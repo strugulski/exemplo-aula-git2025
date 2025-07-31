@@ -1,2 +1,2 @@
 # exemplo-aula-git2025
-primeiro exemplo abertura github 2025
+criando algo especifico para o meu primeiro github
